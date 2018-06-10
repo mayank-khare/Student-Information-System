@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+   color: black;
+   background-color: skyblue;
+   border: 2px black;
+   border-radius: 7px;
+   font-size: 40pt;
+   text-shadow: rgba(255,255,255,255) -5px -4px 0.01em;
+   text-align: center;
+}
+
+p {
+	text-align: center;
+	border: 2px solid black;
+    border-radius: 5px;
+    background-color: OrangeRed;
+	color: black;
+	font-size: 20pt;
+}
+
+.head {
+  color: white;
+	text-align: right;
+	font-size: 14pt;
+}
